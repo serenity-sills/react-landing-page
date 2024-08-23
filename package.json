@@ -1,9 +1,9 @@
 {
+  "homepage": "https://serenity-sills.github.io/react-landing-page",
   "name": "react_landing_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/react-landing-page",
-
+  
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
